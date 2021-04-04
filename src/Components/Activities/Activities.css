@@ -1,0 +1,24 @@
+.icon1 {
+    margin-left: 240px !important;
+  }
+  .icon3 {
+    margin-left: 190px !important;
+  }
+  .icon1_h {
+    text-align: center;
+    font-family: OpenSans-Bold;
+    color: #222222;
+    font-size: 22px;
+    margin-top: 20px;
+  }
+  .icon1_p {
+    text-align: center;
+    font-family: OpenSans-Semibold;
+    color: #575757;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .btn__icon {
+    margin-bottom: 105px;
+    margin-top: 50px;
+  }

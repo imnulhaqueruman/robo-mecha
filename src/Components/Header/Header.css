@@ -1,0 +1,41 @@
+.first_page_para {
+  max-width: 475px;
+  background-size: cover;
+  height: 495px;
+  background-repeat: no-repeat;
+  position: relative;
+  margin-left: 190px;
+  margin-top: 75px;
+}
+.f_header {
+  font-size: 45px;
+  font-family: OpenSans-Bold;
+  color: white;
+  margin-left: 95px;
+  margin-top: 155px;
+}
+.f_para {
+  font-family: Poppins-Bold;
+  font-size: 16px;
+  color: white;
+  margin-left: 103px;
+}
+.btn1 {
+  font-family: Montserrat-SemiBold;
+  font-size: 11px;
+  border: 0px;
+}
+.btn1 {
+  margin-left: 105px;
+  background-color: #6c9e9f;
+}
+.first_page_para_div button a {
+  text-decoration: none;
+  color: white;
+}
+.btn-group-sm > .btn,
+.btn-sm {
+  padding: 0.5rem 1.25rem;
+  line-height: 1.5;
+  border-radius: 7.2rem;
+}

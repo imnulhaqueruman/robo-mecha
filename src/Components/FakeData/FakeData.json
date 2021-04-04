@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "image":"https://i.ibb.co/F5jpZ20/Latest-news-bg1.png",
+        "email": "Sincere@april.biz",
+        "headline":"ACHIEVEMENT/NEWS",
+        "topic":"Arduino Day Celebrated at CUET",
+        "news":"Arduino Day is a worldwide birthday celebration of Arduino. It’s a 24 hour-long event – organized directly by the community, or by the Arduino founders – that brings peopletogether",
+       
+        "address": {
+          "street": "Kulas Light",
+          "suite": "Apt. 556",
+          "city": "Gwenborough",
+          "zipcode": "92998-3874",
+          "geo": {
+            "lat": "-37.3159",
+            "lng": "81.1496"
+          }
+        },
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
+        "company": {
+          "name": "Romaguera-Crona",
+          "catchPhrase": "Multi-layered client-server neural-net",
+          "bs": "harness real-time e-markets"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "image":"https://i.ibb.co/6XH5xqM/Latest-news-bg2.png",
+        "email": "Shanna@melissa.tv",
+        "headline":"ARTICLE / PROGRAMMING / SCIENCE / UNCATEGORIZED",
+        "topic":"আর্ট,প্রোগ্রামিং আর আরো কিছু",
+        "news":"প্রোগ্রমার মানেই কি রসকসহীন কয়েকটা আতেল পাবলিক হবে?আর কোড লিখা শুরু তো করলাম,কালস্ক্রিনে ২টা কথা আসল “Hello World” এরপর হাবিজাবি আরো কিছু অঙ্ক কষলাম।আর একটু ভুল করলেই …",
+        "address": {
+          "street": "Victor Plains",
+          "suite": "Suite 879",
+          "city": "Wisokyburgh",
+          "zipcode": "90566-7771",
+          "geo": {
+            "lat": "-43.9509",
+            "lng": "-34.4618"
+          }
+        },
+        "phone": "010-692-6593 x09125",
+        "website": "anastasia.net",
+        "company": {
+          "name": "Deckow-Crist",
+          "catchPhrase": "Proactive didactic contingency",
+          "bs": "synergize scalable supply-chains"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "image":"https://i.ibb.co/frSpJrW/Latest-news-bg3.png",
+        "email": "Nathan@yesenia.net",
+        "headline":"IMAGE PROCESSING",
+        "topic":"Image Processing এর হাতেখড়ি",
+        "news":"Image Processing এর হাতেখড়ি আজ আমরা আলোচনা করব image processing নিয়ে। আমরা আজ কিছু basic topic নিয়ে আলোচনা করব। চলুন শুরু করা যাক। আমরা সবাই আশাকরি কমবেশি image processing বা …",
+        "address": {
+          "street": "Douglas Extension",
+          "suite": "Suite 847",
+          "city": "McKenziehaven",
+          "zipcode": "59590-4157",
+          "geo": {
+            "lat": "-68.6102",
+            "lng": "-47.0653"
+          }
+        },
+        "phone": "1-463-123-4447",
+        "website": "ramiro.info",
+        "company": {
+          "name": "Romaguera-Jacobson",
+          "catchPhrase": "Face to face bifurcated interface",
+          "bs": "e-enable strategic applications"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "headline":"NEWS",
+        "topic":"Annual General Meeting 2016",
+        "news":"The Annual General Meeting of Robo Mechatronics Association Bangladesh was held on 11th  December, 2016 at West Gallery, CUET. Honorable Vice Chancellor of the University,  Prof.Dr. Mohammad Rafiqul Alam …",
+        "address": {
+          "street": "Douglas Extension",
+          "suite": "Suite 847",
+          "city": "McKenziehaven",
+          "zipcode": "59590-4157",
+          "geo": {
+            "lat": "-68.6102",
+            "lng": "-47.0653"
+          }
+        },
+        "phone": "1-463-123-4447",
+        "website": "ramiro.info",
+        "company": {
+          "name": "Romaguera-Jacobson",
+          "catchPhrase": "Face to face bifurcated interface",
+          "bs": "e-enable strategic applications"
+        }
+      }
+]

@@ -1,0 +1,24 @@
+.second_footer {
+    background-color: #29636e;
+    height: 220px;
+  }
+  .eleven,
+  .competition {
+    font-family: Poppins-Bold;
+    color: white;
+  }
+  .eleven {
+    font-size: 60px !important;
+    text-align: center;
+    margin-top: 75px;
+  }
+  .competition {
+    font-size: 16px;
+    text-align: justify;
+    margin-top: 88px;
+    margin-left: 10px;
+  }
+  .one {
+    margin-left: -40px;
+  }
+  
